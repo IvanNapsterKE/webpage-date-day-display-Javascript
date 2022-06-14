@@ -14,7 +14,7 @@ function renderTime(){
         var dayarray = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
         var montharray = new Array("Jan","Feb","Mar","Apr","May","June","July","Aug","Sep","Oct","Nov","Dec");
     
-            // DATE END
+            // DATE END...
      
             // TIME
         var currentTime = new Date();
